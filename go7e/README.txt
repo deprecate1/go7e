@@ -1,0 +1,1 @@
+compile and debug with vs2017,  linux support also
