@@ -10,3 +10,15 @@ compile with **visual studio 2017(vc6 also works well)**,  linux support also
 
 <https://www.lri.fr/~sebag/Slides/InvitedTutorial_CP12.pdf>
 
+**mcts,uct** 简单介绍mcts和uct
+<https://www.youtube.com/watch?v=UXW2yZndl7U>
+
+**uct,alpha-beta** uct及alpha-beta剪枝
+<https://www.youtube.com/watch?v=hmQogtp6-fs>
+
+**serials**【一系列算法合集：alpha-beta剪枝（基于香农的minmax算法），】
+<https://www.youtube.com/watch?v=xmImNoDc9Z4&t=1474s>
+
+**minmax算法**
+https://www.bilibili.com/video/av31191881?from=search&seid=13957065412983319681
+
