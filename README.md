@@ -18,7 +18,3 @@ compile with **visual studio 2017(vc6 also works well)**,  linux support also
 
 **serials**【一系列算法合集：alpha-beta剪枝（基于香农的minmax算法），】
 <https://www.youtube.com/watch?v=xmImNoDc9Z4&t=1474s>
-
-**minmax算法**
-https://www.bilibili.com/video/av31191881?from=search&seid=13957065412983319681
-
